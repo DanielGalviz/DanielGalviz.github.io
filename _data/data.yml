@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Daniel Galvis
+    tagline: Theoretical Physicist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,71 +27,52 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Fluent
 
     interests:
-      - item: Climbing
+      - item: Theoretical Physics
         link:
 
-      - item: Snowboarding
+      - item: String Theory
         link:
 
-      - item: Cooking
+      - item: M-Theory
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Young and promising venezuelan physicist, got my master degree in Theoretical Physicsat the university of Bonn .
+      My main passions are Theoretical Physics and drinking bubble tea, so its no wonder that my favorite activity is solving 1000000 dimentional tensorial equations drinking bubble tea.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Theoretical Physics
+      university: University of Bonn
+      time: 2012 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Specialized in something, the web maseter really doesnt know what I was doing there.
+        Probablly something along the lines of
+          - Tensors
+          - String Theory
+    - degree: BSc in Physics
+      university: Universidad de los Andes (Venezuela)
+      time: 2011 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        This is where I discovered that I loved Theoretical Physics, there was a problem with the title of my tesis but the web master doesn't really remembers what it was.
+        Tutor: Kudeir, PhD
+          - Graduated with honors
+          - #1 of my promotion
+          - Publication worthy tesis
 experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa..
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
@@ -100,9 +81,6 @@ experiences:
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
     - role: UI Developer
@@ -111,9 +89,6 @@ experiences:
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
 projects:
@@ -146,46 +121,37 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Couldn't find the others, sorry
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Are the notions of past, present and future compatible with the General Theory of Relativity?
+        link: "https://arxiv.org/abs/2005.10065"
+        authors: Daniel D. Sega, Daniel Galviz
+        conference: "History and Philosophy of Physics, 2020"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "RELATIVITY THE SPECIAL AND GENERAL THEORY"
+        link: "http://www.f.waseda.jp/sidoli/Einstein_Relativity.pdf"
+        authors: ALBERT EINSTEIN
+        conference: ""
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: String Theory
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: M-Theory
         level: 98%
 
-      - name: Angular
+      - name: Tensorial Calculus
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Chinese
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Computer Programming
         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    And Edited by Matias Agelvis.
