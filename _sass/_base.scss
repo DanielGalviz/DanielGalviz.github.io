@@ -178,17 +178,23 @@ p {
     .upper-row {
         position: relative;
         overflow: hidden;
+        display: flex;
         margin-bottom: 2px;
     }
     .job-title, .degree {
         color: $text-color;
+        float: left;
+        width: 65%;
+        margin-right: 5%;
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
         font-weight: 500;
     }
     .time {
-        position: absolute;
+        float: right;
+        width: 30%;
+        text-align: right;
         right: 0;
         top: 0;
         color: $text-grey;
