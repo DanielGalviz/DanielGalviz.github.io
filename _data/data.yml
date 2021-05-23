@@ -12,16 +12,16 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: 
+    phone: 
+    website: #do not add http://
+    linkedin: 
+    xing: 
+    github: # DEBG2021
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,6 +32,12 @@ sidebar:
 
       - idiom: English
         level: Fluent
+
+      - idiom: German
+        level: Begginer
+
+      - idiom: Mandarin Chinese
+        level: Begginer
 
     interests:
       - item: Theoretical Physics
@@ -48,6 +54,8 @@ career-profile:
     summary: |
       Young and promising venezuelan physicist, got my master degree in Theoretical Physicsat the university of Bonn .
       My main passions are Theoretical Physics and drinking bubble tea, so its no wonder that my favorite activity is solving 1000000 dimentional tensorial equations drinking bubble tea.
+
+
 education:
     - degree: MSc in Theoretical Physics
       university: University of Bonn
@@ -66,6 +74,8 @@ education:
           - Graduated with honors
           - #1 of my promotion
           - Publication worthy tesis
+
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -91,6 +101,8 @@ experiences:
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           - Bullet point
           - Bullet point
+
+
 projects:
     title: Projects
     intro: >
@@ -153,5 +165,5 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-    And Edited by Matias Agelvis.
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.<br />
+    Edited and Maintained by <a href="https://matiasagelvis.github.io/" target="_blank" rel="nofollow">Matias Agelvis</a>.

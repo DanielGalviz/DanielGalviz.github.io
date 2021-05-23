@@ -1,9 +1,17 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
+    <li class="button">
+      <a class="chat-wrap"><i class="fas fa-envelope"></i>Click to mail Me!</a>
+    </li>
+
+    <li class="button">
+      <a class="chat-wrap" onclick="window.open('../assets/Daniel_Galvis_CV.pdf')"><i class="fas fa-file-pdf"></i>&nbsp; Download in PDF</a>
+    </li>
+
     {% if sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+    <li class="mail"><i class="fas fa-envelope"></i>
+      <a href="tel:{{ sidebar.mail }}">{{ sidebar.mail }}</a>
     </li>
     {% endif %}
 

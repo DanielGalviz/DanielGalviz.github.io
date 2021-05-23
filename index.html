@@ -16,3 +16,40 @@ layout: default
 {% include publications.html %}
 
 {% include skills.html %}
+
+
+<div class="contact-form">
+  <!-- partial:index.partial.html -->
+<span class="overlay"></span>
+<section class="contactme">
+  <div id="fancy-inputs">
+    <form action="https://formspree.io/f/xzbjognd" method="POST">
+      <p>Contact</p>
+      <label class="input">
+        <input class="inputs" type="text" name="Name" required="">
+        <span><span>Name</span></span>
+      </label>
+
+      <label class="input">
+        <input class="inputs" type="email" name="Mail" required="">
+        <span><span>Email</span></span>
+      </label>
+
+<!--       <label class="input textarea">
+        <textarea class="inputs" required=""></textarea>
+      </label> -->
+      <label class="input textarea">
+        <!-- Your message: -->
+        <textarea class="inputs" name="Message"></textarea>
+        <span><span>Message</span></span>
+      </label>
+
+      <input type="submit" value="Submit" class="btn cta">
+    </form>
+  </div>
+</section>
+<!-- partial -->
+<link rel="stylesheet" href="./contact/style.css">
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script  src="./contact/script.js"></script>
+</div>
