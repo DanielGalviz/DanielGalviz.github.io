@@ -4,7 +4,7 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-sticky-note fa-stack-1x fa-inverse"></i>
     </span>
     Activities
   </h2>
@@ -16,6 +16,7 @@
         <h3 class="job-title">{{ activitie.title }}</h3>
         <div class="time">{{ activitie.time }}</div>
       </div><!--//upper-row-->
+      <div class="company">{{ activitie.location }}</div>
     </div><!--//meta-->
 
     {% if activitie.details %}
