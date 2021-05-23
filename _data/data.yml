@@ -33,8 +33,8 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: German
-        level: Begginer
+      # - idiom: German
+      #   level: Begginer
 
       - idiom: Mandarin Chinese
         level: Begginer
@@ -57,93 +57,105 @@ career-profile:
 
 
 education:
-    - degree: MSc in Theoretical Physics
-      university: University of Bonn
-      time: 2012 - 2018
+    - degree: MSc in Physics
+      university: Universität Bonn | Bönn, Germany
+      time: 2018 - 2021
       details: |
-        Specialized in something, the web maseter really doesnt know what I was doing there.
-        Probablly something along the lines of
-          - Tensors
-          - String Theory
-    - degree: BSc in Physics
-      university: Universidad de los Andes (Venezuela)
-      time: 2011 - 2016
+        Specialized in HEP, String Theory and QFT.
+          - BCGS Scholarship Honors Branch
+
+    - degree: B.Sc in Physics
+      university: Universidad de los Andes | Merida, Venezuela
+      time: 2011 - 2017
       details: |
-        This is where I discovered that I loved Theoretical Physics, there was a problem with the title of my tesis but the web master doesn't really remembers what it was.
-        Tutor: Kudeir, PhD
-          - Graduated with honors
+          # - Tutor: Kudeir, PhD
+          - Graduated with SUMMA CUM LAUDE honors
           - #1 of my promotion
           - Publication worthy tesis
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+
+    - role: Electromagnetism Teaching Assistant
+      time: 2016
+      company: Universidad de los Andes | Merida, Venezuela
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa..
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Teaching Assistant for the  bachelor Electromagnetism course.
+    
+    - role: Advanced Quantum Theory Teaching Assistant
+      time: Winter semester 2018
+      company: Universität Bonn | Bönn, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Teaching Assistant for the master Advanced Quantum Theory course.
+
+    - role: Advanced Quantum Theory Teaching Assistant
+      time: Winter semester 2019
+      company: Universität Bonn | Bönn, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          - Bullet point
-          - Bullet point
+        Teaching Assistant for the master Advanced Quantum Theory course.
 
+    - role: General Relativity Teaching Assistant
+      time: Summer semester 2019
+      company: Universität Bonn | Bönn, Germany.
+      details: |
+        Teaching Assistant for the Advanced Quantum Theory master course.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Advanced Theoretical Hadron Physics Teaching Assistant
+      time: Summer semester 2020
+      company: Universität Bonn | Bönn, Germany.
+      details: |
+        Teaching Assistant for the General Relativity master course.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: "Reseach Assistant | Project: Mathematica Optics"
+      time: August - October 2016.
+      company: Universidad Nacional Autonoma de Mexico | Cuernavaca, Mexico.
+      details: |
+        Working on mathematical methods for signal processing, especially with the Wigner Ville distribution for analysing bioacoustic signals. Under the supervision of Prof. Kurt Bernardo Wolf at Institute for Physical Science.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - role: "Reseach Assistant | Project: Quantum Key Distribution"
+      time: May - August 2017
+      company: University of Waterloo | Waterloo, Canada.
+      details: |
+        Designing new protocols for optical scenarios in Quantum Key Distribution with quantum information theory. Under the supervision of Prof. Norbert Lütkenhaus at Institute for Quantum Computing.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - role: "Reseach Assistant | Project: CFT And Fusion Rules"
+      time: October-December 2018
+      company: Universität Bönn | Bönn, Germany
+      details: |
+        Applying CFT techniques to calculate modular transformations and fusion rules of minimal models and orbifolds. Under the supervision of Prof. Albrecht Klemm at Bethe Center for Theoretical Physics.
 
 publications:
     title: Publications
-    intro: |
-      Couldn't find the others, sorry
+    intro:
     papers:
-      - title: Are the notions of past, present and future compatible with the General Theory of Relativity?
-        link: "https://arxiv.org/abs/2005.10065"
-        authors: Daniel D. Sega, Daniel Galviz
-        conference: "History and Philosophy of Physics, 2020"
+      - title: "Partially Massless Theory in Three Dimensions and Self-dual Massive Gravity."
+        link: "https://doi.org/10.1142/S0217732318500670"
+        authors: "D. Galviz, and A. Khoudeir."
+        conference: "Modern Physics Letters A. Vol. 33,No. 12"
 
-      - title: "RELATIVITY THE SPECIAL AND GENERAL THEORY"
-        link: "http://www.f.waseda.jp/sidoli/Einstein_Relativity.pdf"
-        authors: ALBERT EINSTEIN
-        conference: ""
+      - title: "A New Theory Framework for the Electroweak Radiative Corrections in Kl3 Decays"
+        link: "https://doi.org/10.1007/JHEP02(2020)069"
+        authors: "C.-Y. Seng, D. Galviz, and U.-G. Meißner."
+        conference: "Journals High Energy Physics."
+
+      - title: "Improved Ke3 radiative corrections sharpen the Kμ2–Kl3 discrepancy."
+        link: "https://arxiv.org/abs/2103.04843"
+        authors: "C.-Y. Seng, D. Galviz, M. Gorchtein and U.-G. Meißner."
+        conference: "Accepted in Physical Review D."
+
+      - title: "High-precision determination of the Ke3 radiative corrections"
+        link: "https://arxiv.org/abs/2103.00975"
+        authors: "C.-Y. Seng, D. Galviz, M. Gorchtein and U.-G. Meißner."
+        conference: "Submitted for Publication."
+
+
+activities:
+    - title: "example activitie"
+      time: 2018
+      details: |
+        Winter School Geometry, Analysis and Physics |Geilo, NO.
+
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -158,12 +170,39 @@ skills:
       - name: Tensorial Calculus
         level: 98%
 
-      - name: Chinese
+      - name: Matlab
         level: 95%
 
-      - name: Computer Programming
-        level: 60%
+      - name: Mathematica
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.<br />
-    Edited and Maintained by <a href="https://matiasagelvis.github.io/" target="_blank" rel="nofollow">Matias Agelvis</a>.
+    Edited and Maintained with 🍵 and 🍪 by <a href="https://matiasagelvis.github.io/" target="_blank" rel="nofollow">Matias Agelvis</a>.
+
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
