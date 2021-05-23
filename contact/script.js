@@ -1,11 +1,5 @@
 // show contact
-$('.chat-wrap').click(function(){
-  $(this).addClass('active');
-  $('.contactme').addClass('active');
-  $('.overlay').fadeIn();
-});
-
-$('.chat-wrap2').click(function(){
+$('.contact-click').click(function(){
   $(this).addClass('active');
   $('.contactme').addClass('active');
   $('.overlay').fadeIn();
