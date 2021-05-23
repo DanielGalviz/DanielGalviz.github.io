@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Daniel Galvis
@@ -49,33 +49,64 @@ sidebar:
       - item: M-Theory
         link:
 
+
+
+
+#   title: mandatory
+#   summary: mandatory
+
 career-profile:
+    # have fun
     title: Career Profile
     summary: |
-      Young and promising venezuelan physicist, got my master degree in Theoretical Physicsat the university of Bonn .
-      My main passions are Theoretical Physics and drinking bubble tea, so its no wonder that my favorite activity is solving 1000000 dimentional tensorial equations drinking bubble tea.
+      Young and promising venezuelan physicist, got my master degree in Theoretical Physics at the Universität Bonn.
 
+      My main passions are Theoretical Physics and drinking bubble tea, so it's no wonder that my favorite activity is solving 1000000-dimentional tensorial equations while gulping copious ammounts of bubble tea.
+
+      I serve the soviet union! ☭
+
+
+
+# to add a graduation copy this
+# 
+#    - degree: mandatory
+#      university: mandatory
+#      time: mandatory
+#      details: optional
+# 
 
 education:
+
+    # have fun
     - degree: MSc in Physics
       university: Universität Bonn | Bönn, Germany
       time: 2018 - 2021
       details: |
-        Specialized in HEP, String Theory and QFT.
+        Specialized in HEP, String Theory and QFT
           - BCGS Scholarship Honors Branch
 
     - degree: B.Sc in Physics
       university: Universidad de los Andes | Merida, Venezuela
       time: 2011 - 2017
       details: |
-          # - Tutor: Kudeir, PhD
-          - Graduated with SUMMA CUM LAUDE honors
-          - #1 of my promotion
+          - Tutor: Kudeir, PhD
           - Publication worthy tesis
+          - Graduated with Summa Cum Laude honors
+          - Best GPA of my promotion
 
+
+
+# to add experiences copy this
+# 
+#    - role: mandatory
+#      time: mandatory
+#      company: mandatory
+#      details: optional
+# 
 
 experiences:
 
+    # have fun
     - role: Electromagnetism Teaching Assistant
       time: 2016
       company: Universidad de los Andes | Merida, Venezuela
@@ -107,7 +138,7 @@ experiences:
         Teaching Assistant for the General Relativity master course.
 
     - role: "Reseach Assistant | Project: Mathematica Optics"
-      time: August - October 2016.
+      time: August - October 2016
       company: Universidad Nacional Autonoma de Mexico | Cuernavaca, Mexico.
       details: |
         Working on mathematical methods for signal processing, especially with the Wigner Ville distribution for analysing bioacoustic signals. Under the supervision of Prof. Kurt Bernardo Wolf at Institute for Physical Science.
@@ -124,43 +155,123 @@ experiences:
       details: |
         Applying CFT techniques to calculate modular transformations and fusion rules of minimal models and orbifolds. Under the supervision of Prof. Albrecht Klemm at Bethe Center for Theoretical Physics.
 
+
+# to add publications copy this
+# 
+#     - title: mandatory
+#       link: optional
+#       authors: mandatory
+#       conference: mandatory
+# 
+
 publications:
+
+    # no touchy unless you know what you are doing... or you're the web master
     title: Publications
     intro:
     papers:
-      - title: "Partially Massless Theory in Three Dimensions and Self-dual Massive Gravity."
+
+      # have fun
+      - title: "Partially Massless Theory in Three Dimensions and Self-dual Massive Gravity"
         link: "https://doi.org/10.1142/S0217732318500670"
-        authors: "D. Galviz, and A. Khoudeir."
+        authors: "D. Galviz, and A. Khoudeir"
         conference: "Modern Physics Letters A. Vol. 33,No. 12"
 
       - title: "A New Theory Framework for the Electroweak Radiative Corrections in Kl3 Decays"
         link: "https://doi.org/10.1007/JHEP02(2020)069"
-        authors: "C.-Y. Seng, D. Galviz, and U.-G. Meißner."
-        conference: "Journals High Energy Physics."
+        authors: "C.-Y. Seng, D. Galviz, and U.-G. Meißner"
+        conference: "Journals High Energy Physics"
 
-      - title: "Improved Ke3 radiative corrections sharpen the Kμ2–Kl3 discrepancy."
+      - title: "Improved Ke3 radiative corrections sharpen the Kμ2–Kl3 discrepancy"
         link: "https://arxiv.org/abs/2103.04843"
-        authors: "C.-Y. Seng, D. Galviz, M. Gorchtein and U.-G. Meißner."
-        conference: "Accepted in Physical Review D."
+        authors: "C.-Y. Seng, D. Galviz, M. Gorchtein and U.-G. Meißner"
+        conference: "Accepted in Physical Review D"
 
       - title: "High-precision determination of the Ke3 radiative corrections"
         link: "https://arxiv.org/abs/2103.00975"
-        authors: "C.-Y. Seng, D. Galviz, M. Gorchtein and U.-G. Meißner."
-        conference: "Submitted for Publication."
+        authors: "C.-Y. Seng, D. Galviz, M. Gorchtein and U.-G. Meißner"
+        conference: "Submitted for Publication"
 
+
+# to add activities copy this
+# 
+#     - title : mandatory
+#       time : mandatory
+#       location : mandatory
+#       details : optional
+# 
 
 activities:
-    - title: "example activitie"
+
+      # have fun
+    - title: Quantum Gravity and Modularity
+      time: 2021
+      location: Dublin, Irelan.
+      details: Participated
+
+    - title: Modular Forms in String Compactifications
+      time: 2021
+      location: Bönn, Germany.
+      details: Participated
+
+    - title: Junior Duality and Integrability Workshop
+      time: 2021
+      location: Bönn, Germany.
+      details: Participated
+
+    - title: YRISW, A Modern primer for Superconformal Field Theories
+      time: 2020
+      location: Hamburg, Germany.
+      details: Participated
+
+    - title: Seminar on SUSY representations in 4d and 11d
+      time: 2019
+      location: Bönn, Germany.
+      details: Participated
+
+    - title: DESY Summer School in Scattering Amplitudes in Gauge and String Theory
+      time: 2019
+      location: Hamburg, Germany.
+      details: Participated
+
+    - title: Seminar on Matrix model in topological string theory
       time: 2018
-      details: |
-        Winter School Geometry, Analysis and Physics |Geilo, NO.
+      location: Bönn, Germany.
+      details: Speaker
+
+      # si no te parece poner los detalles podemos ponerlo en el titulo 'participated in ...'
+    - title: Winter School Geometry, Analysis and Physics
+      time: 2018
+      location: Geilo, Norway.
+      details: Participated
 
 
+# to add activities uncomment this
+# projects:
+#     just one of these
+# 
+#     have fun
+#     title: Projects
+#     intro: short description
 
+# and copy as many of this as you need
+# 
+#       - title: mandatory
+#         link: optional
+#         tagline: optional
+# 
+
+# skills
+#   - name: mandatory
+#     level: mandatory
 skills:
+
+    # no touchy unless you know what you are doing... or you're the web master
     title: Skills &amp; Proficiency
 
     toolset:
+
+      # have fun
       - name: String Theory
         level: 98%
 
@@ -176,33 +287,8 @@ skills:
       - name: Mathematica
         level: 90%
 
+
+# no touchy unless you know what you are doing... or you're the web master
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.<br />
     Edited and Maintained with 🍵 and 🍪 by <a href="https://matiasagelvis.github.io/" target="_blank" rel="nofollow">Matias Agelvis</a>.
-
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
