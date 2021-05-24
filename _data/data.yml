@@ -73,7 +73,7 @@ education:
 
     # have fun
     - degree: MSc in Physics
-      university: Universität Bonn | Bönn, Germany
+      university: Universität Bonn | Bonn, Germany
       time: 2020
       details: |
         Specialized in HEP, String Theory and QFT\
@@ -107,25 +107,25 @@ teachings:
     
     - role: Teaching Assistant in Advanced Quantum Theory 
       time: Winter semester 2018/219
-      company: Universität Bonn | Bönn, Germany
+      company: Universität Bonn | Bonn, Germany
       details: |
       #Teaching Assistant for the master Advanced Quantum Theory course.
 
     - role: Teaching Assistant in General Relativity 
       time: Summer semester 2019
-      company: Universität Bonn | Bönn, Germany.
+      company: Universität Bonn | Bonn, Germany.
       #details: |
        #Teaching Assistant for the Advanced Quantum Theory master course.
         
     - role: Teaching Assistant in Advanced Quantum Theory
       time: Winter semester 2019/2020
-      company: Universität Bonn | Bönn, Germany
+      company: Universität Bonn | Bonn, Germany
       #details: |
        #Teaching Assistant for the master Advanced Quantum Theory course.
 
     - role: Teaching Assistant in Advanced Theoretical Hadron Physics
       time: Summer semester 2020
-      company: Universität Bonn | Bönn, Germany.
+      company: Universität Bonn | Bonn, Germany.
       #details: |
        #Teaching Assistant for the General Relativity master course.
     
@@ -154,7 +154,7 @@ experiences:
 
     - role: "Reseach Assistant | Project: CFT And Fusion Rules"
       time: October-December 2018
-      company: Universität Bönn | Bönn, Germany
+      company: Universität Bonn | Bonn, Germany
       details: |
         Applying CFT techniques to calculate modular transformations and fusion rules of minimal models and orbifolds. Under the supervision of Prof. Albrecht Klemm at Bethe Center for Theoretical Physics.
 
@@ -214,12 +214,12 @@ activities:
 
   - title: Modular Forms in String Compactifications
     time: 2021
-    location: Bönn, Germany.
+    location: Bonn, Germany.
     details: Participated
 
   - title: Junior Duality and Integrability Workshop
     time: 2021
-    location: Bönn, Germany.
+    location: Bonn, Germany.
     details: Participated
 
   - title: YRISW, A Modern primer for Superconformal Field Theories
@@ -229,7 +229,7 @@ activities:
 
   - title: Seminar on SUSY representations in 4d and 11d
     time: 2019
-    location: Bönn, Germany.
+    location: Bonn, Germany.
     details: Speaker
 
   - title: DESY Summer School in Scattering Amplitudes in Gauge and String Theory
@@ -239,7 +239,7 @@ activities:
 
   - title: Seminar on Matrix model in topological string theory
     time: 2018
-    location: Bönn, Germany.
+    location: Bonn, Germany.
     details: Speaker
 
   - title: Winter School Geometry, Analysis and Physics
