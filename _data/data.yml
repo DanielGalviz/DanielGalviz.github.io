@@ -36,8 +36,8 @@ sidebar:
       # - idiom: German
       #   level: Begginer
 
-      - idiom: Mandarin Chinese
-        level: Begginer
+      #- idiom: Mandarin Chinese
+      # level: Begginer
 
     interests:
       - item: Theoretical Physics
@@ -59,11 +59,7 @@ career-profile:
     # have fun
     title: Career Profile
     summary: |
-      Young and promising venezuelan physicist, got my master degree in Theoretical Physics at the Universität Bonn.
-
-      My main passions are Theoretical Physics and drinking bubble tea, so it's no wonder that my favorite activity is solving 1000000-dimentional tensorial equations while gulping copious ammounts of bubble tea.
-
-      I serve the soviet union! ☭
+    hola ☭
 
 
 
@@ -80,19 +76,17 @@ education:
     # have fun
     - degree: MSc in Physics
       university: Universität Bonn | Bönn, Germany
-      time: 2018 - 2021
+      time: 2020
       details: |
         Specialized in HEP, String Theory and QFT
-          - BCGS Scholarship Honors Branch
+        BCGS Scholarship Honors Branch
 
     - degree: B.Sc in Physics
       university: Universidad de los Andes | Merida, Venezuela
-      time: 2013 - 2017
+      time: 2017
       details: |
-          - Tutor: Kudeir, PhD
-          - Publication worthy tesis
-          - Graduated with Summa Cum Laude honors
-          - Best GPA of my promotion
+          Graduated with Summa Cum Laude honors
+          
 
 
 
