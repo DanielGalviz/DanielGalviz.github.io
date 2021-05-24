@@ -109,7 +109,7 @@ teachings:
       time: Winter semester 2018/219
       company: Universität Bonn | Bönn, Germany
       details: |
-        Teaching Assistant for the master Advanced Quantum Theory course.
+      #Teaching Assistant for the master Advanced Quantum Theory course.
 
     - role: General Relativity Teaching Assistant
       time: Summer semester 2019
