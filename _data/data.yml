@@ -267,25 +267,25 @@ activities:
 skills:
 
     # no touchy unless you know what you are doing... or you're the web master
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
 
       # have fun
       - name: String Theory
-        level: 98%
+        level: 0%
 
       - name: M-Theory
-        level: 98%
+        level: 0%
 
       - name: Tensorial Calculus
-        level: 98%
+        level: 0%
 
       - name: Matlab
-        level: 95%
+        level: 0%
 
       - name: Mathematica
-        level: 90%
+        level: 0%
 
 
 # no touchy unless you know what you are doing... or you're the web master
