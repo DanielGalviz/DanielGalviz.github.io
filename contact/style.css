@@ -157,7 +157,7 @@ a.chat-wrap
   /*font-family: 'Dosis';*/
   color: #fe044b;
   font-size: 36px;
-  margin-top: 50px;
+  margin-top: 5%;
   font-weight:600;
   text-align: center;
 }
@@ -172,8 +172,8 @@ a.chat-wrap
 
 .contactme.active {
   border-radius:10px;
-  height: 560px;
-  width: 400px;
+  height: 80%;
+  width: 70%;
   transform:translateY(0);
   -webkit-transform:translateY(0);
   -moz-transform:translateY(0);
@@ -199,16 +199,14 @@ a.chat-wrap
 
 }
 #fancy-inputs {
-  width: 320px;
-  height: 520px;
+  width: 92%;
+  height: 95%;
   position: relative;
   margin: 0 auto;
 }
 #fancy-inputs label.input {
-  float: left;
-  width: 320px;
-  height: 42px;
-  margin: 50px 0 0 0;
+  width: 100%;
+  display: table-row;
   position: relative;
   clear: both;
 }
@@ -234,7 +232,7 @@ a.chat-wrap
 }
 #fancy-inputs .inputs {
   float: left;
-  width: 320px;
+  width: 100%;
   height: 40px;
   padding: 0 10px;
   border: 0;
@@ -303,6 +301,10 @@ a.chat-wrap
   display: inline-block;
   margin: 0 auto;
   text-align: center;
+  /*position: relative;*/
+  /*margin: 10% 0;*/
+  display: table-row;
+  bottom: 0;
   background: #fe044b;
   cursor: pointer;
   color:#fff;
@@ -312,4 +314,11 @@ a.chat-wrap
   color: #fff;
   /*font-family: 'Dosis';*/
   font-size: 21px;
+}
+
+form {
+  height: 100%;
+  width: 100%;
+  display: table;
+  table-layout: fixed;
 }
