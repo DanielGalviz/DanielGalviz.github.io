@@ -58,9 +58,7 @@ sidebar:
 career-profile:
     # have fun
     title: About me
-    summary: Welcome to my homepage!\newline
-    I am a theoretical physicist student currently living in Bonn (Germany) and working as researcher at University of Bonn (HISKP, BCTP).\newline
-    In this website I provide some information about my research interests, CV and contact details. I hope you find it useful!
+    summary: Welcome to my homepage!    I am a theoretical physicist student currently living in Bonn (Germany) and working as researcher at University of Bonn (HISKP, BCTP).    In this website I provide some information about my research interests, CV and contact details. I hope you find it useful!
 
 
 # to add a graduation copy this
