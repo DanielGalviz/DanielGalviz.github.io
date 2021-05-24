@@ -83,7 +83,7 @@ education:
       university: Universidad de los Andes | Merida, Venezuela
       time: 2017
       details: |
-          Graduated with Summa Cum Laude honors
+          Summa Cum Laude 
           
 
 
@@ -100,7 +100,7 @@ teachings:
     # have fun
 
     - role: Electromagnetism Teaching Assistant
-      time: 2016
+      time: Winter semester 2016/2017
       company: Universidad de los Andes | Merida, Venezuela
       #details: |
       #  Teaching Assistant for the  bachelor Electromagnetism course.
