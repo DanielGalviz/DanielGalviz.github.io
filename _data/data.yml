@@ -46,7 +46,7 @@ sidebar:
       - item: String Theory
         link:
 
-      - item: M-Theory
+      - item: Mathematics
         link:
 
 
@@ -58,9 +58,7 @@ sidebar:
 career-profile:
     # have fun
     title: Career Profile
-    summary: |
-      hola ☭
-
+    summary: Hola
 
 
 # to add a graduation copy this
@@ -98,23 +96,17 @@ education:
 #      details: optional
 # 
 
-experiences:
+TEACHING:
 
     # have fun
     - role: Electromagnetism Teaching Assistant
       time: 2016
       company: Universidad de los Andes | Merida, Venezuela
-      details: |
-        Teaching Assistant for the  bachelor Electromagnetism course.
+      #details: |
+        #Teaching Assistant for the  bachelor Electromagnetism course.
     
     - role: Advanced Quantum Theory Teaching Assistant
-      time: Winter semester 2018
-      company: Universität Bonn | Bönn, Germany
-      details: |
-        Teaching Assistant for the master Advanced Quantum Theory course.
-
-    - role: Advanced Quantum Theory Teaching Assistant
-      time: Winter semester 2019
+      time: Winter semester 2018/219
       company: Universität Bonn | Bönn, Germany
       details: |
         Teaching Assistant for the master Advanced Quantum Theory course.
@@ -122,14 +114,22 @@ experiences:
     - role: General Relativity Teaching Assistant
       time: Summer semester 2019
       company: Universität Bonn | Bönn, Germany.
-      details: |
-        Teaching Assistant for the Advanced Quantum Theory master course.
+      #details: |
+       #Teaching Assistant for the Advanced Quantum Theory master course.
+        
+     - role: Advanced Quantum Theory Teaching Assistant
+      time: Winter semester 2019/2020
+      company: Universität Bonn | Bönn, Germany
+      #details: |
+       #Teaching Assistant for the master Advanced Quantum Theory course.
 
     - role: Advanced Theoretical Hadron Physics Teaching Assistant
       time: Summer semester 2020
       company: Universität Bonn | Bönn, Germany.
-      details: |
-        Teaching Assistant for the General Relativity master course.
+      #details: |
+       #Teaching Assistant for the General Relativity master course.
+       
+EXPERIENCE:
 
     - role: "Reseach Assistant | Project: Mathematica Optics"
       time: August - October 2016
@@ -258,28 +258,28 @@ activities:
 # skills
 #   - name: mandatory
 #     level: mandatory
-skills:
+#skills:
 
     # no touchy unless you know what you are doing... or you're the web master
     title: Skills
 
-    toolset:
+    #toolset:
 
       # have fun
-      - name: String Theory
-        level: 0%
+      #- name: String Theory
+      #  level: 0%
 
-      - name: M-Theory
-        level: 0%
+      #- name: M-Theory
+        #level: 0%
 
-      - name: Tensorial Calculus
-        level: 0%
+      #- name: Tensorial Calculus
+      #  level: 0%
 
-      - name: Matlab
-        level: 0%
+      #- name: Matlab
+      #  level: 0%
 
-      - name: Mathematica
-        level: 0%
+      #- name: Mathematica
+      #  level: 0%
 
 
 # no touchy unless you know what you are doing... or you're the web master
