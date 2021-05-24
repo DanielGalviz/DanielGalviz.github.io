@@ -5,9 +5,10 @@
       <a class="chat-wrap contact-click"><i class="fas fa-envelope"></i>Click to mail Me!</a>
     </li>
 
-     {% <li class="button"> %}
+     {% if sidebar.chat-wrap%}
+    <li class="button"> 
       <a class="chat-wrap" onclick="window.open('./Daniel_Galviz_CV.pdf')"><i class="fas fa-file-pdf"></i>Download in PDF</a>
-    #</li>
+    </li>
     {% endif %}
 
     <li class="button">
