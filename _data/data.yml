@@ -98,22 +98,22 @@ education:
 teachings:
 
     # have fun
-
-     - role: Teaching Assistant in Advanced Theoretical Hadron Physics
-       time: Summer semester 2020
-       company: Universität Bonn | Bonn, Germany.
+    
+    - role: Teaching Assistant in Advanced Theoretical Hadron Physics
+    time: Summer semester 2020
+    company: Universität Bonn | Bonn, Germany
       #details: |
        #Teaching Assistant for the General Relativity master course.
        
-      - role: Teaching Assistant in Advanced Quantum Theory
+     - role: Teaching Assistant in Advanced Quantum Theory
         time: Winter semester 2019/2020
         company: Universität Bonn | Bonn, Germany
       #details: |
        #Teaching Assistant for the master Advanced Quantum Theory course.
        
-      - role: Teaching Assistant in General Relativity 
+     - role: Teaching Assistant in General Relativity 
         time: Summer semester 2019
-        company: Universität Bonn | Bonn, Germany.
+        company: Universität Bonn | Bonn, Germany
       #details: |
        #Teaching Assistant for the Advanced Quantum Theory master course.
        
