@@ -140,22 +140,30 @@ teachings:
 
 experiences:
 
+    - role: "Reseach Assistant | Project: High-precision electroweak radiative correctios"
+      time: Sept 2020 - Sept 2021
+      company: Universität Bönn, BCTP | Bönn, Germany.
+      supervisor: Supervisor: Prof. Ulf-G. Meißner
+      details: |
+        Developing new effective field theory techniques (in the context of QFT and Standard Model) improving with high-precision the electroweak radiative corrections to kl3 decays.  
+        
     - role: "Reseach Assistant | Project: CFT And Fusion Rules"
       time: October-December 2018
       company: Universität Bönn, BCTP | Bönn, Germany.
-      supervisor: Prof. Albrecht Klemm 
+      supervisor: Supervisor: Prof. Albrecht Klemm 
       details: |
         Applying CFT techniques to calculate modular transformations and fusion rules of minimal models and orbifolds, at Bethe Center for Theoretical Physics.
+        
     - role: "Reseach Assistant | Project: Quantum Key Distribution"
       time: May - August 2017
       company: University of Waterloo | Waterloo, Canada.
-      supervisor: Prof. Norbert Lütkenhaus
+      supervisor: Supervisor: Prof. Norbert Lütkenhaus
       details: |
         Designing new protocols for optical scenarios in Quantum Key Distribution with quantum information theory, at Institute for Quantum Computing.
     - role: "Reseach Assistant | Project: Mathematica Optics"
       time: August - October 2016
       company: National Autonomous University of Mexico| Cuernavaca, Mexico.
-      supervisor: Prof. Kurt Bernardo Wolf 
+      supervisor: Supervisor: Prof. Kurt Bernardo Wolf 
       details: |
         Working on mathematical methods for signal processing, especially with the Wigner Ville distribution for analysing bioacoustic signals, at Institute for Physical Science.
 
