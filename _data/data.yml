@@ -100,17 +100,18 @@ teachings:
     # have fun
     
 
-    - role: Teaching Assistant in Electromagnetism 
-      time: Winter semester 2016/2017
-      company: Universidad de los Andes | Merida, Venezuela
+    - role: Teaching Assistant in Advanced Theoretical Hadron Physics
+      time: Summer semester 2020
+      company: Universität Bonn | Bönn, Germany.
       #details: |
       #  Teaching Assistant for the  bachelor Electromagnetism course.
     
     - role: Teaching Assistant in Advanced Quantum Theory 
-      time: Winter semester 2018/219
+      time: Winter semester 2019/2020
       company: Universität Bonn | Bönn, Germany
       details: |
       #Teaching Assistant for the master Advanced Quantum Theory course.
+      
     - role: Teaching Assistant in General Relativity 
       time: Summer semester 2019
       company: Universität Bonn | Bönn, Germany.
@@ -118,13 +119,13 @@ teachings:
        #Teaching Assistant for the Advanced Quantum Theory master course.
         
     - role: Teaching Assistant in Advanced Quantum Theory
-      time: Winter semester 2019/2020
+      time: Winter semester 2018/2019
       company: Universität Bonn | Bönn, Germany
       #details: |
        #Teaching Assistant for the master Advanced Quantum Theory course.
-    - role: Teaching Assistant in Advanced Theoretical Hadron Physics
-      time: Summer semester 2020
-      company: Universität Bonn | Bönn, Germany.
+    - role:   Teaching Assistant in Electromagnetism
+      time: Winter semester 2016/2017 
+      company: Universidad de los Andes | Merida, Venezuela
       #details: |
        #Teaching Assistant for the General Relativity master course.
   
@@ -139,19 +140,18 @@ teachings:
 
 experiences:
 
-- role: "Reseach Assistant | Project: CFT And Fusion Rules"
+
+    - role: "Reseach Assistant | Project: CFT And Fusion Rules"
       time: October-December 2018
-      company: Universität Bönn | Bönn, Germany
+      company:Universität Bönn | Bönn, Germany.
       details: |
         Applying CFT techniques to calculate modular transformations and fusion rules of minimal models and orbifolds. Under the supervision of Prof. Albrecht Klemm at Bethe Center for Theoretical Physics.
-        
-- role: "Reseach Assistant | Project: Quantum Key Distribution"
+    - role: "Reseach Assistant | Project: Quantum Key Distribution"
       time: May - August 2017
       company: University of Waterloo | Waterloo, Canada.
       details: |
         Designing new protocols for optical scenarios in Quantum Key Distribution with quantum information theory. Under the supervision of Prof. Norbert Lütkenhaus at Institute for Quantum Computing.
-        
- - role: "Reseach Assistant | Project: Mathematical Optics"
+    - role: "Reseach Assistant | Project: Mathematica Optics"
       time: August - October 2016
       company: Universidad Nacional Autonoma de Mexico | Cuernavaca, Mexico.
       details: |
