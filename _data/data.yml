@@ -140,22 +140,22 @@ teachings:
 
 experiences:
 
-    - role: "Reseach Assistant | Project: Mathematical Optics"
-      time: August - October 2016
-      company: Universidad Nacional Autonoma de Mexico | Cuernavaca, Mexico.
+    - role: "Reseach Assistant | Project: CFT And Fusion Rules"
+      time: October-December 2018
+      Supervisor: Prof. Albrecht Klemm.
+      company: Universität Bönn | Bönn, Germany.
       details: |
-        Working on mathematical methods for signal processing, especially with the Wigner Ville distribution for analysing bioacoustic signals. Under the supervision of Prof. Kurt Bernardo Wolf at Institute for Physical Science.
+        Applying CFT techniques to calculate modular transformations and fusion rules of minimal models and orbifolds, at Bethe Center for Theoretical Physics.
     - role: "Reseach Assistant | Project: Quantum Key Distribution"
       time: May - August 2017
       company: University of Waterloo | Waterloo, Canada.
       details: |
         Designing new protocols for optical scenarios in Quantum Key Distribution with quantum information theory. Under the supervision of Prof. Norbert Lütkenhaus at Institute for Quantum Computing.
-    - role: "Reseach Assistant | Project: CFT And Fusion Rules"
-      time: October-December 2018
-      company: Universität Bönn | Bönn, Germany
+    - role: "Reseach Assistant | Project: Mathematica Optics"
+      time: August - October 2016
+      company: Universidad Nacional Autonoma de Mexico | Cuernavaca, Mexico.
       details: |
-        Applying CFT techniques to calculate modular transformations and fusion rules of minimal models and orbifolds. Under the supervision of Prof. Albrecht Klemm at Bethe Center for Theoretical Physics.
-
+        Working on mathematical methods for signal processing, especially with the Wigner Ville distribution for analysing bioacoustic signals. Under the supervision of Prof. Kurt Bernardo Wolf at Institute for Physical Science.
        
 
 
