@@ -72,6 +72,8 @@ career-profile:
 education:
 
     # have fun
+
+     -degree: hola
        
        
     - degree: MSc. in Physics
