@@ -72,16 +72,18 @@ career-profile:
 education:
 
     # have fun
+
+      -degree: PhD. in Mathematics
+       university: Tsinghua University, YMSC | Beijing, China
+       time: In progress 
+       
+       
     - degree: MSc. in Physics
       university: Universität Bonn | Bonn, Germany
       time: 2020
       details: |
         Specialized in HEP, String Theory and QFT\
         BCGS Scholarship Honors Branch
-
-     -degree: PhD. in Mathematics
-       university: Tsinghua University, YMSC | Beijing, China
-       time: In progress 
 
     - degree: B.Sc in Physics
       university: Universidad de los Andes | Merida, Venezuela
