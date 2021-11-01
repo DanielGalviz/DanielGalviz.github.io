@@ -58,7 +58,7 @@ sidebar:
 career-profile:
     # have fun
     title: About me
-    summary: Welcome to my homepage! I am a PhD. student in Mathematics/Theoretical Physics at Yau Mathematical Science Center (YMSC) at Tsinghua university. Currently, living in Bonn (Germany) and working as researcher at University of Bonn (HISKP, BCTP).    In this website, I provide some information about my research interests, CV and contact details. I hope you find it useful!
+    summary: Welcome to my homepage! I am a PhD. student in Mathematics/Theoretical Physics at Yau Mathematical Science Center (YMSC) at Tsinghua University. Currently, living in Bonn (Germany) and working as researcher at University of Bonn (HISKP, BCTP).    In this website, I provide some information about my research interests, CV and contact details. I hope you find it useful!
 
 
 # to add a graduation copy this
@@ -74,8 +74,12 @@ education:
     # have fun
 
      -degree: hola
-       
-       
+      university: Universität Bonn | Bonn, Germany
+      time: 2020
+      details: |
+        Specialized in HEP, String Theory and QFT\
+        BCGS Scholarship Honors Branch
+      
     - degree: MSc. in Physics
       university: Universität Bonn | Bonn, Germany
       time: 2020
