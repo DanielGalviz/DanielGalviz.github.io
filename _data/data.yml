@@ -72,13 +72,6 @@ career-profile:
 education:
 
     # have fun
-
-     -degree: hola
-      university: Universität Bonn | Bonn, Germany
-      time: 2020
-      details: |
-        Specialized in HEP, String Theory and QFT\
-        BCGS Scholarship Honors Branch
       
     - degree: MSc. in Physics
       university: Universität Bonn | Bonn, Germany
